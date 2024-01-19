@@ -2,7 +2,7 @@
 <a href="https://github.com/MuhammadRidwan54"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=3500&pause=500&color=14FFFF&center=true&vCenter=true&random=false&width=452&height=62&lines=Hi+Everyone;I'm+Sibe.Wee;Junior+Website+Developer" alt="Typing SVG" /></a>
 </p>
 
-<p img align="right" alt="Coding" width="400" (imgbin_pile-of-poo-emoji-scalable-graphics-autocad-dxf-feces-png.png)>
+<p img align="right" alt="Coding" width="400" src = "imgbin_pile-of-poo-emoji-scalable-graphics-autocad-dxf-feces-png.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadridwan54&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadridwan54" /> </p>
 
